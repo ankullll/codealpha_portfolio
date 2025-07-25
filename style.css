@@ -276,7 +276,7 @@ a{
 
 .image{
     position: relative;
-    left: 200px;
+    left: 100px;
 }
 @media (max-width:884px) {
     body{
